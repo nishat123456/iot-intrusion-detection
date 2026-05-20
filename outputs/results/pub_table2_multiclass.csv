@@ -1,0 +1,7 @@
+model,level,accuracy,f1_weighted,f1_macro,train_sec
+LightGBM,family,0.9615,0.9616,0.9272,17.12
+LightGBM,subtype,0.2459,0.2398,0.2002,35.28
+XGBoost,family,0.9598,0.96,0.9246,15.97
+XGBoost,subtype,0.9322,0.9317,0.8788,99.53
+Random Forest,family,0.9543,0.9544,0.9128,27.41
+Random Forest,subtype,0.9219,0.9204,0.858,34.69

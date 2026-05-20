@@ -1,0 +1,11 @@
+,value
+total_rows_full_dataset,508155
+total_attack_types,34
+binary_subset_rows,36000
+benign_count,18000
+ddos_count,18000
+original_features,46
+features_after_selection,31
+missing_values,0
+near_zero_var_removed,9
+high_corr_removed,6
